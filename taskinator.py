@@ -49,7 +49,7 @@ if menu == "2" :
 
         print(x) 
 
-        with open(r'C:\Users\gotin\Desktop\Projects\python\taskbuddy\tasks.txt', 'w') as f: 
+        with open(r'\\tasks.txt', 'w') as f: 
 
            for x in tasks: 
 
